@@ -53,4 +53,10 @@ Deploy it
 % git push heroku master
 ```
 
+Rename app (https://devcenter.heroku.com/articles/renaming-apps#updating-git-remotes)
+
+```
+heroku apps:oldname newname
+```
+
 Enjoy!
