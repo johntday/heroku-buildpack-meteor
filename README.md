@@ -42,10 +42,15 @@ Configure your plugins & settings
 % heroku config:add ROOT_URL=<insert_url_created_above_here>
 ```
 
+Configure git
+```
+% git config --global push.default matching
+```
+
 Deploy it
 
 ```
-% git push heroku
+% git push heroku master
 ```
 
 Enjoy!
