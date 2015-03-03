@@ -59,4 +59,8 @@ Rename app (https://devcenter.heroku.com/articles/renaming-apps#updating-git-rem
 heroku apps:oldname newname
 ```
 
+Custom Domain
+
+https://devcenter.heroku.com/articles/custom-domains
+
 Enjoy!
